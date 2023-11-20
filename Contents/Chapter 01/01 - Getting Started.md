@@ -37,7 +37,7 @@ Let's get started with the basics and pave the way for your exciting journey int
 <br>
 
 ## 1.1: Setting Up Your Development Environment
-In the realm of React usage, myriad approaches exist, but for the sake of efficiency and simplicity, we'll opt for the command-line interface (CLI) tool known as create-react-app. This tool expedites the React application development process by automating the installation of essential packages and generating the requisite files, thus handling the intricate tooling described earlier.
+In the realm of React usage, myriad approaches exist, but for the sake of efficiency and simplicity, we'll opt for the command-line interface (CLI) tool known as create-react-app. This tool expedites the React application development process by automating the installation of essential packages and generating the requisite files, thus handling the intricate tooling.
 
 To witness React in action on your local machine, follow these steps. Create a new file named 'example.html' using your preferred code editor. Open the file, paste the provided HTML snippet, and launch it in your browser.
 
@@ -124,6 +124,8 @@ Throughout this process, create-react-app will relay various messages in your te
 •	Git Initialization: If you have git installed, initializes the directory as a git repository.create-react-app will display a number of messages in your terminal while it works; this is normal! This might take a few minutes, so now might be a good time to go make a cup of tea.
 
 Once the process concludes, navigate to the 'hello-world' directory and execute npm start in your terminal. The scripts installed by create-react-app will activate a local server at localhost:3000, opening the app in a new browser tab. Your browser will showcase the initial view of your application.
+
+<img src="./images/default-create-react-app.png">
 
 
 <br>
